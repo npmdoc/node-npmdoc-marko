@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "api documentation for [marko (v4.2.8)](http://markojs.com/) [![npm package](https://img.shields.io/npm/v/npmdoc-marko.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-marko) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-marko.svg)](https://travis-ci.org/npmdoc/node-npmdoc-marko)",
+    "description": "#### api documentation for  [marko (v4.2.8)](http://markojs.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-marko.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-marko) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-marko.svg)](https://travis-ci.org/npmdoc/node-npmdoc-marko)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "marko": "*",
@@ -35,5 +35,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
