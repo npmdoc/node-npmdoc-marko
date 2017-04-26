@@ -1,6 +1,6 @@
 # npmdoc-marko
 
-#### api documentation for  [marko (v4.2.8)](http://markojs.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-marko.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-marko) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-marko.svg)](https://travis-ci.org/npmdoc/node-npmdoc-marko)
+#### basic api documentation for  [marko (v4.2.8)](http://markojs.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-marko.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-marko) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-marko.svg)](https://travis-ci.org/npmdoc/node-npmdoc-marko)
 
 #### Marko is an extensible, streaming, asynchronous, high performance, HTML-based templating language that can be used in Node.js or in the browser.
 
